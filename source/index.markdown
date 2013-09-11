@@ -1,14 +1,25 @@
 ---
 layout: page
-title: "CircleShake"
+title: "CircleShake for iPhone"
 date: 2013-09-10 03:16
 comments: true
 sharing: true
 footer: true
 ---
-CircleShake for iOS
--------------------
-Comming soon.
+You have 10 seconds.
+===================
+{% img /images/stopwatch.jpg %}
 
+Shake your iPhone as much as possible.
+======================================
+{% img /images/shakephone.jpg %}
+
+Check your world ranking.
+=========================
+{% img /images/leaderboard.jpg %}
+
+Coming Soon
+===========
 Leave your email as a comment to be notified when the app is download-able.
 
+{% img /images/comingsoon.png %}
