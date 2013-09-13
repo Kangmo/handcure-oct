@@ -18,8 +18,3 @@ Check your world ranking.
 =========================
 {% img /images/leaderboard.jpg %}
 
-Coming Soon
-===========
-Leave your email as a comment to be notified when the app is download-able.
-
-{% img /images/comingsoon.png %}
