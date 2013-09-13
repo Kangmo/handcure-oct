@@ -18,3 +18,8 @@ Check your world ranking.
 =========================
 {% img /images/leaderboard.jpg %}
 
+Coming Soon
+============
+{% img /images/circleshake.png %}
+
+
