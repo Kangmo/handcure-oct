@@ -18,8 +18,14 @@ Check your world ranking.
 =========================
 {% img /images/leaderboard.jpg %}
 
-Coming Soon
+Beta Testing
 ============
+CircleShake is under Beta testing. To join, submit your email.
+
+You will get an access to the app download link.
+
+CircleShake supports iPhone4, iPhone 4S, iPhone 5. 
+
 {% img /images/circleshake.png %}
 
 
